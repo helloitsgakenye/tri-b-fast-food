@@ -1,2 +1,8 @@
 # tri-b-fast-food
-simple website
+simple restaurant website for tri b fast food
+
+
+
+
+click to visit the website
+https://helloitsgakenye.github.io/tri-b-fast-food/
